@@ -5,3 +5,5 @@ Not intended for use on normal desktops, but if you don't like the Start menu fo
 Also not intended for hacking school/work computers, or a computer that you do NOT have admin on.
 
 Includes quick access to the boot option screen with the Troubleshoot button, and restart. Sadly running "shutdown -t 0" doesn't work unless you use the -r (restart) flag for some reason. Will look into that!
+
+**Note! You do not have to run the script as administrator! It will work anyway!
