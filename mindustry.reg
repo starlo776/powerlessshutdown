@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Segoe UI (TrueType)"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"Segoe UI"="Audiowide Regular"
+"Segoe UI"="Audiowide"
+"Segoe UI Bold"="Audiowide"
+"Segoe UI Italic"="Audiowide"
+"Segoe UI Bold Italic"="Audiowide"
+"Segoe UI Semibold"="Audiowide"
+"Segoe UI Light"="Audiowide"
+"Segoe UI Semilight"="Audiowide"
+"Segoe UI Black"="Audiowide"
+"Microsoft Sans Serif"="Audiowide"
