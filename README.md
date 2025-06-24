@@ -7,3 +7,5 @@ Also not intended for hacking school/work computers, or a computer that you do N
 Includes quick access to the boot option screen with the Troubleshoot button, shutting down, and logging off if you can't do that.
 
 _Note! You do not have to run the script as administrator! It will work anyway._
+
+Support me on Ko-fi (It's only £2!) https://ko-fi.com/PXbass2
